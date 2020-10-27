@@ -13,32 +13,32 @@
 
 const images = [
     {
-        imgSrc: 'https://i.picsum.photos/id/409/600/350.jpg',
+        imgSrc: 'https://picsum.photos/id/409/600/350.jpg',
         imgLink: 'https://travel.gc.ca/destinations/argentina',
         imgDescription: 'Stroll the streets of Buenos Aires'
     },
     {
-        imgSrc: 'https://i.picsum.photos/id/1018/600/350.jpg',
+        imgSrc: 'https://picsum.photos/id/1018/600/350.jpg',
         imgLink: 'https://travel.gc.ca/destinations/new-zealand',
         imgDescription: 'See the beauty of New Zealand'
     },
     {
-        imgSrc: 'https://i.picsum.photos/id/392/600/350.jpg',
+        imgSrc: 'https://picsum.photos/id/392/600/350.jpg',
         imgLink: 'https://travel.gc.ca/destinations/united-states',
         imgDescription: 'Enjoy the sunshine in California'
     },
     {
-        imgSrc: 'https://i.picsum.photos/id/1040/600/350.jpg',
+        imgSrc: 'https://picsum.photos/id/1040/600/350.jpg',
         imgLink: 'https://travel.gc.ca/destinations/germany',
         imgDescription: 'Visit traditional German villages'
     },
     {
-        imgSrc: 'https://i.picsum.photos/id/219/600/350.jpg',
+        imgSrc: 'https://picsum.photos/id/219/600/350.jpg',
         imgLink: 'https://travel.gc.ca/destinations/kenya',
         imgDescription: 'Go on a safari in Kenya'
     },
     {
-        imgSrc: 'https://i.picsum.photos/id/428/600/350.jpg',
+        imgSrc: 'https://picsum.photos/id/428/600/350.jpg',
         imgLink: 'https://travel.gc.ca/destinations/china',
         imgDescription: 'Taste the flavours of China'
     }
